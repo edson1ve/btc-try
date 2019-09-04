@@ -1,6 +1,6 @@
 {
   "name": "Freebitcoin Bakiye Dönüştürücü",
-  "version": "0.0.0.2",
+  "version": "0.0.0.3",
   "description": "Freebitcoin sitesindeki bakiyenizi, üzerine tıkladığınızda Türk Lirası cinsinden görmenizi sağlar.",
   "manifest_version": 2,
   "content_scripts": [
