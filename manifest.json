@@ -1,7 +1,7 @@
 {
-  "name": "Freebitcoin Bakiye Dönüştürücü",
+  "name": "PRECIO DEL BITCOIN EN VENEZUELA REAL DE MERCADO",
   "version": "0.0.0.3",
-  "description": "Freebitcoin sitesindeki bakiyenizi, üzerine tıkladığınızda Türk Lirası cinsinden görmenizi sağlar.",
+  "description": "LA REFERENCIA DE PRECIO INTERNACIONAL EXPRESADA EN VES DEBE SER LA CORRECTA, NO OBSTANTE HAY UNA DIFERENCIA REAL CON LOS PRECIOS DE ESPECULADORES EN MERCADOS OFICIALES",
   "manifest_version": 2,
   "content_scripts": [
     {
@@ -14,9 +14,9 @@
     }
   ],
   "icons": {
-    "16": "images/btc-try16.png",
-    "32": "images/btc-try32.png",
-    "48": "images/btc-try48.png",
-    "128": "images/btc-try128.png"
+    "16": "images/btc-ves16.png",
+    "32": "images/btc-ves32.png",
+    "48": "images/btc-ves48.png",
+    "128": "images/btc-ves128.png"
   }
 }
